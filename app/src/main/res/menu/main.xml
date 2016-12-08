@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"/>
+    
+    <item
+        android:id="@+id/rateapp"
+        android:orderInCategory="100"
+        android:title="Rate"/>
+    
+     <item
+        android:id="@+id/more"
+        android:orderInCategory="100"
+        android:title="More App"/>
+    
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        android:title="Share App"/>
+
+</menu>
